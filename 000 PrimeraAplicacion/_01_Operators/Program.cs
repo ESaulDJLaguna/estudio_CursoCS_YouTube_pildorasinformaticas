@@ -7,7 +7,7 @@
             // ------------ OPERADORES ------------
             Console.WriteLine("Mult: " + 7*5);
             Console.WriteLine("Mult: " + 7*5*3);
-            // Como los dos valores son enterso, el resultado es un valor entero ("trunca" el decimal)
+            // Como los dos valores son enteros, el resultado es un valor entero ("trunca" el decimal)
             Console.WriteLine("Div: " + 5/2);
             // El compilador considera por defecto el '2.0' como un double.
             // Si existe un valor decimal en una operación, se "castea" el resultado a un decimal.
