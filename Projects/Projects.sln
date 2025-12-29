@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.14.36429.23
+# Visual Studio Version 18
+VisualStudioVersion = 18.1.11312.151 d18.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "000 PrimeraAplicacion", "000 PrimeraAplicacion", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
 EndProject
@@ -63,6 +63,12 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04 VisualStudioAndPOO", "04
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConceptosPOO", "003 POO\04 VisualStudioAndPOO\ConceptosPOO\ConceptosPOO.csproj", "{817CA217-D1D5-4A99-9B98-15EDD847A161}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "004 Arrays", "004 Arrays", "{3AF458DA-CF80-4F7B-9A90-3C941AC76530}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "00 UsoArrays", "00 UsoArrays", "{3E2D9ADC-D6A6-41FC-B568-2E73E643D3B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsoArrays", "004 Arrays\00 UsoArrays\UsoArrays\UsoArrays.csproj", "{7AB055E3-23DB-4AC2-9A55-969164E38BF5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -121,6 +127,10 @@ Global
 		{817CA217-D1D5-4A99-9B98-15EDD847A161}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{817CA217-D1D5-4A99-9B98-15EDD847A161}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{817CA217-D1D5-4A99-9B98-15EDD847A161}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AB055E3-23DB-4AC2-9A55-969164E38BF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AB055E3-23DB-4AC2-9A55-969164E38BF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AB055E3-23DB-4AC2-9A55-969164E38BF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AB055E3-23DB-4AC2-9A55-969164E38BF5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -152,6 +162,8 @@ Global
 		{F3487617-B9B3-5B07-1DAD-82256B132B04} = {479CDDF0-C8AD-47C0-9DF7-C92348DE2E59}
 		{D725B89A-1402-4BAE-B6A5-5C899975E046} = {719A521D-B925-4D70-8601-A4EC2A799A53}
 		{817CA217-D1D5-4A99-9B98-15EDD847A161} = {D725B89A-1402-4BAE-B6A5-5C899975E046}
+		{3E2D9ADC-D6A6-41FC-B568-2E73E643D3B7} = {3AF458DA-CF80-4F7B-9A90-3C941AC76530}
+		{7AB055E3-23DB-4AC2-9A55-969164E38BF5} = {3E2D9ADC-D6A6-41FC-B568-2E73E643D3B7}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {DB17E159-C829-44C2-8B79-458F8F90EF70}
